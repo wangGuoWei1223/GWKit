@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "GWKit"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "GWKit.简单描述"
 
   s.description  = <<-DESC
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/wangGuoWei1223/GWKit.git", :tag => s.version.to_s }
 
-  s.source_files = 'View/*'
+  s.source_files = 'GWKit/*'
   #s.source_files  = "Classes", "Classes/**/*.{h,m}"
 
 
