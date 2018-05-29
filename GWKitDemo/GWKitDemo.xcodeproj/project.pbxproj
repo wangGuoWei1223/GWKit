@@ -14,6 +14,7 @@
 		1CBD4D0220BCE7F8002E6CE5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1CBD4D0020BCE7F8002E6CE5 /* LaunchScreen.storyboard */; };
 		1CBD4D0520BCE7F8002E6CE5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CBD4D0420BCE7F8002E6CE5 /* main.m */; };
 		1CBD4D0E20BCE822002E6CE5 /* GWKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CBD4D0D20BCE822002E6CE5 /* GWKit.m */; };
+		1CBD4D1020BCEACA002E6CE5 /* GWKit.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 1CBD4D0F20BCEACA002E6CE5 /* GWKit.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		1CBD4D0420BCE7F8002E6CE5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1CBD4D0C20BCE822002E6CE5 /* GWKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GWKit.h; sourceTree = "<group>"; };
 		1CBD4D0D20BCE822002E6CE5 /* GWKit.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GWKit.m; sourceTree = "<group>"; };
+		1CBD4D0F20BCEACA002E6CE5 /* GWKit.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = GWKit.podspec; path = ../../GWKit.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		1CBD4CF420BCE7F6002E6CE5 /* GWKitDemo */ = {
 			isa = PBXGroup;
 			children = (
+				1CBD4D0F20BCEACA002E6CE5 /* GWKit.podspec */,
 				1CBD4D0B20BCE80B002E6CE5 /* View */,
 				1CBD4CF520BCE7F6002E6CE5 /* AppDelegate.h */,
 				1CBD4CF620BCE7F6002E6CE5 /* AppDelegate.m */,
@@ -145,6 +148,7 @@
 				1CBD4D0220BCE7F8002E6CE5 /* LaunchScreen.storyboard in Resources */,
 				1CBD4CFF20BCE7F8002E6CE5 /* Assets.xcassets in Resources */,
 				1CBD4CFD20BCE7F6002E6CE5 /* Main.storyboard in Resources */,
+				1CBD4D1020BCEACA002E6CE5 /* GWKit.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
