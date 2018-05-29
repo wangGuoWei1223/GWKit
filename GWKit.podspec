@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "GWKit"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "GWKit.简单描述"
 
   s.description  = <<-DESC
