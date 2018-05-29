@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "https://github.com/wangGuoWei1223"
+  s.homepage     = "https://github.com/wangGuoWei1223/GWKit"
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author             = { "Gavin" => "wgw12230927@163.com" }
 
